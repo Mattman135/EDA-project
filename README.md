@@ -30,4 +30,4 @@ What is EDA (Extract, Transform, Load)?
 14) Report products
 
 # Credit
-- Data with Baraa on Youtube
+- [Data with Baraa](https://www.youtube.com/watch?v=2jGhQpbzHes&list=WL&index=19&t=457s) on Youtube
