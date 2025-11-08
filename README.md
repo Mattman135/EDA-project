@@ -1,16 +1,10 @@
 # EDA-project
-An exploratory data analyst project.
-
-Skills used in this project
-
-What is EDA (Extract, Transform, Load)?
-- Ask the right questions and use simple SQL to answer the questions.
-- The purpose is to understand the data and using:
-- basic queries
-- data profiling
-- aggregations
-- subquery
-
+An Exploratory Data Analyst (EDA) project is used to answer business questions mainly using SQL.
+The purpose is to understand the data and using:
+- basic queries,
+- data profiling,
+- aggregations,
+- subqueries.
 
 # Summary
 - There are 14 script files with the following purpose
